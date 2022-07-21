@@ -6,7 +6,7 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Esse projeto foi desenvolvido para aprofundar os conhecimentos em HTML e CSS. Nele desenvolvi um site para uma barbearia fictícia (projeto proposto durante o curso de HTML5 e CSS3 oferecido pela Alura) no qual aprendi conceitos como tipos de div, posicionamento, listas, navegação, formulários, tabelas e frames, além de aprofundar na estilização de páginas utilizando float, hover e tipos de display.
+Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CSS. Nele desenvolvi um site para uma barbearia fictícia (projeto proposto durante o curso de HTML5 e CSS3 oferecido pela Alura) no qual aprendi conceitos como tipos de div, posicionamento, listas, navegação, formulários, tabelas e frames, além de aprofundar na estilização de páginas utilizando float, hover e tipos de display.
 
 ## Funcionalidades do projeto
 
