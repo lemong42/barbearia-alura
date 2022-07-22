@@ -29,4 +29,7 @@ Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CS
 
 ### Tecnologias utilizadas 
 
-![htmlcss_icone](https://user-images.githubusercontent.com/90742197/180258190-3e7a27f9-4bde-4c02-b679-7bee12479c6e.png)
+<div>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
