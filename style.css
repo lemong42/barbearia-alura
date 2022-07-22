@@ -71,7 +71,7 @@ nav a:hover {
 }
 
 .produtos h2 {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
 }
 
@@ -102,7 +102,7 @@ nav a:hover {
 }
 
 .produtos li:hover h2 {
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .produtos li:active {
