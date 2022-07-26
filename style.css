@@ -46,22 +46,27 @@ nav a:hover {
     clear: left;
 }
 
-.principal p {
-    margin: 0 0 1em;
-}
-
-.principal strong {
+.titulo-principal:first-letter {
     font-weight: bold;
 }
 
-.principal em {
-    font-style: italic;
+.principal {
+    padding: 3em;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;
+}
+
+
+.principal strong {
+    font-weight: bold;
 }
 
 .utensilios {
     width: 250px;
     float: left;
     margin: 0 20px 20px 0;
+    box-shadow: 5px 5px 10px black;
 }
 
 .produtos {
@@ -121,10 +126,6 @@ footer {
     margin-top: 20px;
 }
 
-main {
-    width: 940px;
-    margin: 0 auto;
-}
 
 form {
     margin: 40px auto;
@@ -183,11 +184,42 @@ td, th {
 
 .mapa {
     padding: 3em 0;
+    background: linear-gradient(#FEFEFE, lightgrey);
+}
+
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
 }
 
 .mapa p {
     margin: 0 0 2em;
     text-align: center;
+}
+
+.diferenciais {
+    background: lightgrey;
+}
+
+.itens-beneficios {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.itens {
+    line-height: 1.5;
+}
+
+.itens:first-child {
+    font-weight: bold;
+}
+
+.itens:before {
+    content: "✶ ";
+}
+
+.itens::after {
+    content: " ✶";
 }
 
 .video {
