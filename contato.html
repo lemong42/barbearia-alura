@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
         <title>Contato - Barbearia Alura</title>
         <link rel="stylesheet" href="reset.css">
         <link rel="stylesheet" href="style.css">
@@ -44,13 +45,13 @@
                     <label><input type="radio" name="contato" value="whatsapp" checked>Whatsapp</label>
                 </fieldset>
                 
-                <fieldset>
-                <legend>Qual horário prefere ser atendido?</legend>
-                <select>
-                    <option>Manhã</option>
-                    <option>Tarde</option>
-                    <option>Noite</option>
-                </select>
+                <fieldset class="horario">
+                    <legend>Qual horário prefere ser atendido?</legend>
+                    <select>
+                        <option>Manhã</option>
+                        <option>Tarde</option>
+                        <option>Noite</option>
+                    </select>
                 </fieldset>
 
                 <label><input type="checkbox" class="checkbox" checked> Gostaria de receber nossas novidades por e-mail?</label>
@@ -58,29 +59,31 @@
                 <input type="submit" value="Enviar dados" class="enviar">
             </form>
 
-            <table>
-                <thead>
-                    <th>Dia</th>
-                    <th>Horário</th>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>Segunda</td>
-                        <td>8h ~ 20h</td>
-                    </tr>
-                    <tr>
-                        <td>Quarta</td>
-                        <td>8h ~ 20h</td>
-                    </tr>
-                    <tr>
-                        <td>Sexta</td>
-                        <td>8h ~ 20h</td>
-                    </tr>
-                    <tr>
-                        <td colspan="2">24 horas aos finais de semana</td>
-                    </tr>
-                </tbody>
-            </table>
+            <div class="tabela">
+                <table>
+                    <thead>
+                        <th>Dia</th>
+                        <th>Horário</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Segunda</td>
+                            <td>8h ~ 20h</td>
+                        </tr>
+                        <tr>
+                            <td>Quarta</td>
+                            <td>8h ~ 20h</td>
+                        </tr>
+                        <tr>
+                            <td>Sexta</td>
+                            <td>8h ~ 20h</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">24 horas aos finais de semana</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </main>
 
         <footer>
