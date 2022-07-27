@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CS
 
 `Funcionalidade 2`: frame de mapa e vídeo.
 
-![Video_220721115834 (1)](https://user-images.githubusercontent.com/90742197/180248243-d29dd96a-4546-423b-ae4d-4a935b9255f3.gif)
+![Video_220727115338 (1)](https://user-images.githubusercontent.com/90742197/181286739-78e88cc9-38ca-485c-bb51-ce92d027f90b.gif)
 
 `Funcionalidade 3`: hover de itens.
 
@@ -28,7 +28,42 @@ Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CS
 
 `Funcionalidade 5`: design responsivo.
 
+  ![Video_220727123633 (1)](https://user-images.githubusercontent.com/90742197/181289823-fafd2ce8-0078-4a5e-81cf-97dab15b5a4e.gif)
 
+## Projeto final web
+
+`Tela inicial`:
+
+![_D__00_FRONT%20END_projeto_barbearia_index html (1)](https://user-images.githubusercontent.com/90742197/181293217-9d83c910-5e07-4f01-94f7-8c41f72f9174.png)
+
+
+`Tela de produtos`:
+
+![_D__00_FRONT%20END_projeto_barbearia_produtos html](https://user-images.githubusercontent.com/90742197/181293310-2e7f1d02-59ca-45b1-b4fd-c3f6941f3965.png)
+
+
+`Tela de contato`:
+
+![_D__00_FRONT%20END_projeto_barbearia_contato html (1)](https://user-images.githubusercontent.com/90742197/181293334-332e1e25-2798-4739-b436-f044913f0c60.png)
+
+
+## Projeto final mobile
+
+`Tela inicial`:
+
+![_D__00_FRONT%20END_projeto_barbearia_index html (3)](https://user-images.githubusercontent.com/90742197/181294319-29142b7a-5af5-4ac6-849b-812bd55acb85.png)
+
+
+`Tela de produtos`:
+
+![_D__00_FRONT%20END_projeto_barbearia_produtos html (1)](https://user-images.githubusercontent.com/90742197/181294348-1507a045-32db-4b2d-8b16-055c03470185.png)
+
+
+`Tela de contato`:
+
+![_D__00_FRONT%20END_projeto_barbearia_contato html](https://user-images.githubusercontent.com/90742197/181294363-0584fa1d-0ac5-4152-8d21-72fb214fee21.png)
+
+<img height="300" width=33% src="https://user-images.githubusercontent.com/90742197/181294363-0584fa1d-0ac5-4152-8d21-72fb214fee21.png">
 
 ### Tecnologias utilizadas 
 
