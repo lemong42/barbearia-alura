@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CS
 
 `Tela de contato`:
 
-![_D__00_FRONT%20END_projeto_barbearia_contato html (1)](https://user-images.githubusercontent.com/90742197/181293334-332e1e25-2798-4739-b436-f044913f0c60.png)
+![_D__00_FRONT%20END_projeto_barbearia_contato html (5)](https://user-images.githubusercontent.com/90742197/181311954-db2b4f7b-474b-48c3-99dd-8dcf984b43b6.png)
 
 
 ## Projeto final mobile
