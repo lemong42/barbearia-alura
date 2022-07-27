@@ -26,6 +26,9 @@ Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CS
 
 ![Video_220721123117](https://user-images.githubusercontent.com/90742197/180254133-c26e8dfb-a300-43c4-86ca-6d5913d63c3c.gif)
 
+`Funcionalidade 5`: design responsivo.
+
+
 
 ### Tecnologias utilizadas 
 
