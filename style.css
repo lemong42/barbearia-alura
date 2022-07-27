@@ -160,12 +160,6 @@ nav a:hover {
     border-color: greenyellow;
 }
 
-footer {
-    text-align: center;
-    background: url("bg.jpg");
-    padding: 40px 0;
-}
-
 .copyright {
     color: whitesmoke;
     font-size: 13px;
@@ -230,6 +224,12 @@ td, th {
     padding: 8px 15px;
 }
 
+footer {
+    text-align: center;
+    background: url("images/bg.jpg");
+    padding: 40px 0;
+}
+
 @media screen and (max-width:480px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos{
         width: auto;
@@ -270,8 +270,8 @@ td, th {
         margin-right: auto;
     }
 
-    .tabela {
-        width: 50%;
+    table {
+        width: 70%;
         margin-left: auto;
         margin-right: auto;
     }
