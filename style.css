@@ -69,6 +69,52 @@ nav a:hover {
     box-shadow: 5px 5px 10px black;
 }
 
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, lightgrey);
+}
+
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
+
+.diferenciais {
+    background: lightgrey;
+}
+
+.itens-beneficios {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.itens {
+    line-height: 1.5;
+}
+
+.itens:first-child {
+    font-weight: bold;
+}
+
+.itens:before {
+    content: "✶ ";
+}
+
+.itens::after {
+    content: " ✶";
+}
+
+.video {
+    width: 560px;
+    padding-bottom: 3em;
+    margin: auto;
+}
+
 .produtos {
     width: 940px;
     margin: 0 auto;
@@ -181,55 +227,8 @@ td, th {
     padding: 8px 15px;
 }
 
-
-.mapa {
-    padding: 3em 0;
-    background: linear-gradient(#FEFEFE, lightgrey);
-}
-
-.mapa-conteudo {
-    width: 940px;
-    margin: 0 auto;
-}
-
-.mapa p {
-    margin: 0 0 2em;
-    text-align: center;
-}
-
-.diferenciais {
-    background: lightgrey;
-}
-
-.itens-beneficios {
-    text-align: center;
-    margin-bottom: 2em;
-}
-
-.itens {
-    line-height: 1.5;
-}
-
-.itens:first-child {
-    font-weight: bold;
-}
-
-.itens:before {
-    content: "✶ ";
-}
-
-.itens::after {
-    content: " ✶";
-}
-
-.video {
-    width: 560px;
-    padding-bottom: 3em;
-    margin: auto;
-}
-
 @media screen and (max-width:480px) {
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos{
         width: auto;
     }
 
@@ -244,5 +243,36 @@ td, th {
 
     .lista-beneficios {
         width: 100%;
+    }
+
+    .produtos li {
+        display: block;
+        width: auto;
+        margin: 60px;
+    }
+
+    form {
+        text-align: center;
+    }
+
+    .input-padrao {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .tabela {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .checkbox {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .enviar, .horario {
+        margin-top: 1em;
     }
 }
