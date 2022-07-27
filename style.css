@@ -172,9 +172,8 @@ footer {
     margin-top: 20px;
 }
 
-
 form {
-    margin: 40px auto;
+    margin: 40px 0;
 }
 
 form label, form legend {
@@ -184,11 +183,15 @@ form label, form legend {
 
 }
 
+main {
+    margin-left: 15%;
+}
+
 .input-padrao {
     display: block;
     margin-bottom: 20px;
     padding: 10px 25px;
-    width: 50%;
+    width: 30%;
 }
 
 .checkbox {
@@ -196,7 +199,7 @@ form label, form legend {
 }
 
 .enviar {
-    width: 40%;
+    width: 33%;
     padding: 15px 0;
     background: orange;
     color: white;
@@ -241,6 +244,12 @@ td, th {
         text-align: center;
     }
 
+    .video, .mapa-conteudo {
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     .lista-beneficios {
         width: 100%;
     }
@@ -255,7 +264,7 @@ td, th {
         text-align: center;
     }
 
-    .input-padrao {
+    .formulario, .input-padrao {
         width: 70%;
         margin-left: auto;
         margin-right: auto;
@@ -272,7 +281,12 @@ td, th {
         margin-right: 10px;
     }
 
-    .enviar, .horario {
+    .enviar {
+        width: 60%;
+        margin-top: 1em;
+    }
+    
+    .horario {
         margin-top: 1em;
     }
 }
