@@ -4,8 +4,9 @@
 
 ![Captura de tela 2022-07-21 111552](https://user-images.githubusercontent.com/90742197/180236143-debf6548-396e-49a7-bd77-9ef3ef2a08c0.png)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=green&style=for-the-badge">
+<img src="http://img.shields.io/static/v1?label=LAST%20UPDATE&message=27.07.2022&color=blue&style=for-the-badge">
+  
 Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CSS. Nele desenvolvi um site para uma barbearia fictícia (projeto proposto durante o curso de HTML5 e CSS3 oferecido pela Alura) no qual aprendi conceitos como tipos de div, posicionamento, listas, navegação, formulários, tabelas e frames, além de me aprofundar na estilização de páginas utilizando float, hover e tipos de display.
 
 ## Funcionalidades do projeto
@@ -49,21 +50,8 @@ Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CS
 
 ## Projeto final mobile
 
-`Tela inicial`:
+<img width=32% align="top" src="https://user-images.githubusercontent.com/90742197/181294319-29142b7a-5af5-4ac6-849b-812bd55acb85.png"> <img width=32% align="top" src="https://user-images.githubusercontent.com/90742197/181294348-1507a045-32db-4b2d-8b16-055c03470185.png"> <img width=32% align="top" src="https://user-images.githubusercontent.com/90742197/181294363-0584fa1d-0ac5-4152-8d21-72fb214fee21.png">
 
-![_D__00_FRONT%20END_projeto_barbearia_index html (3)](https://user-images.githubusercontent.com/90742197/181294319-29142b7a-5af5-4ac6-849b-812bd55acb85.png)
-
-
-`Tela de produtos`:
-
-![_D__00_FRONT%20END_projeto_barbearia_produtos html (1)](https://user-images.githubusercontent.com/90742197/181294348-1507a045-32db-4b2d-8b16-055c03470185.png)
-
-
-`Tela de contato`:
-
-![_D__00_FRONT%20END_projeto_barbearia_contato html](https://user-images.githubusercontent.com/90742197/181294363-0584fa1d-0ac5-4152-8d21-72fb214fee21.png)
-
-<img height="300" width=33% src="https://user-images.githubusercontent.com/90742197/181294363-0584fa1d-0ac5-4152-8d21-72fb214fee21.png">
 
 ### Tecnologias utilizadas 
 
