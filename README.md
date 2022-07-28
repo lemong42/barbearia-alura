@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido para aprofundar os meus conhecimentos em HTML e CS
 
 `Funcionalidade 5`: design responsivo.
 
-  ![Gif mostrando o design responsivo da página](https://user-images.githubusercontent.com/90742197/181289823-fafd2ce8-0078-4a5e-81cf-97dab15b5a4e.gif)
+![Gif mostrando a transição do layout web para o layout mobile](https://user-images.githubusercontent.com/90742197/181583418-0337d0fc-d2c0-42a4-8c96-36065d10699d.gif)
 
 ## Projeto final web
 
